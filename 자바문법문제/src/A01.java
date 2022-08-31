@@ -2,6 +2,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 /*
+ * 실행결과 예측 q01.txt 파일의 내용은 "https://cafe.naver.com/jjdev"
  * 왜? 장점이 먼지?
  * 1) private 접근제한자
  * 2) final
